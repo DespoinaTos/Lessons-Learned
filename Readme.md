@@ -1,4 +1,4 @@
-###**Things I have learned at Bloc.io**
+###**Things I have learned at Bloc.io**###
 ***
 1. **Markdown Syntax**
 2. **Command Line Basics**
