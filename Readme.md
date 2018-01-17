@@ -6,4 +6,4 @@
 4. **CSS**
 5. **Git and Github**
 
-> **Note:**  This checkpoint was done during 8 Introduction to Git and GitHub.
+> **Note:**  This checkpoint was done during Introduction to Git and GitHub.
